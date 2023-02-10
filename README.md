@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hi%20There&fontSize=100)
+
 😊안녕하세요.반갑습니다.<br>
 백엔드와 프론트 모두 관심있는 열정 가득한 사람입니다.😝
 
@@ -11,6 +13,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)

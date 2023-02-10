@@ -1,5 +1,5 @@
-😊안녕하세요.반갑습니다.
-백엔드와 프론트 모두 관심있는 열정 가득한 사람입니다.
+😊안녕하세요.반갑습니다.<br>
+백엔드와 프론트 모두 관심있는 열정 가득한 사람입니다.😝
 
 
 <img src="https://img.shields.io/badge/Java-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">

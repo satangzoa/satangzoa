@@ -1,21 +1,17 @@
 
 
-😊안녕하세요.반갑습니다.<br>
-백엔드와 프론트 모두 관심있는 열정 가득한 사람입니다.😝
+<h3>😊안녕하세요.반갑습니다.<br></h3>
+<h3>백엔드와 프론트 모두 관심있는 열정 가득한 사람입니다.😝</h3>
 
-📚 Tech Stack 📚</h3><br>
+
 <h3>📚 Tech Stack 📚</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  
-  <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  
 </p>
 
 <h3>🌈 Follow Me 🌈</h3>
